@@ -1,0 +1,2 @@
+highlights: false 
+exclude: ['create.rb', 'README', 'Rakefile']
