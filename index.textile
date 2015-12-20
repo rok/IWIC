@@ -2,4 +2,12 @@
 layout: default
 title: Main page
 ---
-Please "register":/registration.html 
+<center>**IWIC VII**
+May 16th to 22th 2016
+Postojna, Slovenia
+
+<img src="../slike/ice-in-cave.jpg" height=400px> 
+
+**"First Circular":../files/First_circular_7_IWIC_2016.pdf**
+Postojna, December 2015
+</center>
