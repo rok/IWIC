@@ -2,4 +2,4 @@
 layout: default
 title: Registration
 ---
-<iframe src="https://docs.google.com/forms/d/1ZZhwqWJbhmKA5IkeXCkyoi_PdLFySwIlpuUqR6eMGPM/viewform?embedded=true" width="760" height="2350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1l9Fc2QIwFVLQPurybOezeQqRIHla27WF8cL_ZqWy-9A/viewform?embedded=true#start=embed" width="760" height="2350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
